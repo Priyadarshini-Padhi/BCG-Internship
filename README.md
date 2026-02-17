@@ -41,7 +41,6 @@ The main analytical topics included in this repository are:
 
 - Highlighting potential areas for deeper modelling
 
-
 ## How to Use
 
 1. Open the Exploratory_Data_Analysis_and_Data_Cleaning (2).ipynb in Jupyter Notebook or Google Colab.
